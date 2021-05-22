@@ -3,7 +3,7 @@
 ## Introduction
 This is the code of paper *Font Style that Fits an Image -- Font Generation Based on Image Context* by pytorch, which proposed method of generating a book title image based on its context within a book cover.
 
-Original paper:[Font Style that Fits an Image -- Font Generation Based on Image Context](#)
+Original paper:[Font Style that Fits an Image -- Font Generation Based on Image Context](https://arxiv.org/abs/2105.08879)
 
 ![generated_example](smaple/generated_example.png) 
 
